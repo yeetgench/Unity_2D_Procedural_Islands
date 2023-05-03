@@ -7,11 +7,11 @@ public class PerlinNoiseGenerator
     private Vector2 offset;
 
     public int seed = 0;
-    public int octaves = 6;
+    public int octaves = 8;
 
-    public float scale = 1750f;
-    public float lacunarity = 1.7f;
-    public float persistance = 2f;
+    public float scale = 175f;
+    public float lacunarity = 1.6f;
+    public float persistance = 0.9f;
 
     public PerlinNoiseGenerator()
     {
