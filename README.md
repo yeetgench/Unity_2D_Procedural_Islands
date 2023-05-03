@@ -6,6 +6,6 @@ A procedural island generator using perlin noise and a customizable island graph
 
 For real time generation, average island size should be about 1K.
 
-#Usage
+# Usage
 
 Attach the IslandGenerator.cs Script to a gameobject and adjust parameters to your liking.
